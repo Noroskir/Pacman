@@ -1,2 +1,2 @@
 # Pacman
-shitty pacman clone
+A Pacman clone using OpenGL and GLFW for graphics. 
